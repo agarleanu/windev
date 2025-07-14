@@ -1,0 +1,11 @@
+# ~/.config/starship.toml
+
+[os]
+disabled = false
+style = "bold blue"
+
+[os.symbols]
+Arch = " "
+
+[git_branch]
+symbol = "󰘬 "
