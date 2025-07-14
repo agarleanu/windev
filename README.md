@@ -36,7 +36,7 @@ Put on your Rust developer socks and let's go:
 You can install packages via:
 
 ```ps
-winget install <Package ID or Tag>
+winget install
 ```
 
 Example:
@@ -184,10 +184,10 @@ pacman -Syu
 pacman -S base-devel git curl wget vim zsh sudo nano
 
 # Add your user
-useradd -m -G wheel -s /bin/zsh your_username
+useradd -m -G wheel -s /bin/zsh foobar
 
 # Set your user's password
-passwd your_username
+passwd foobar
 
 # Update the sudoers file (please don't judge the nano usage)
 EDITOR=nano visudo
@@ -220,7 +220,7 @@ Set a default user, and make sure systemd is enabled:
 systemd=true
 
 [user]
-default=your_username
+default=foobar
 ```
 
 Now open a new window to access the Arch as a new non-root user.
