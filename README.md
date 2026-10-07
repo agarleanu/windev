@@ -2,11 +2,11 @@
 
 - [📎Windows Development Setup 2](#windows-development-setup-2)
   - [🪟 Winget](#-winget)
-    - [Minimal requirements for proceeding:](#minimal-requirements-for-proceeding)
-    - [Browsers:](#browsers)
-    - [Developer tools:](#developer-tools)
-    - [Lenovo:](#lenovo)
-    - [Others:](#others)
+    - [Minimal requirements for proceeding](#minimal-requirements-for-proceeding)
+    - [Browsers](#browsers)
+    - [Developer tools](#developer-tools)
+    - [Lenovo](#lenovo)
+    - [Others](#others)
   - [🍨 Scoop](#-scoop)
   - [⚙️ Changing some Windows settings](#️-changing-some-windows-settings)
     - [📁 File Explorer](#-file-explorer)
@@ -23,7 +23,7 @@
   - [⬇️ Quake Terminal](#️-quake-terminal)
 
 
-> *The [first one](https://gist.github.com/ugudango/4f8154847de32d3eac413c51caa281c6) was so good, I had to make a sequel.*
+> *The [first one](https://gist.github.com/agarleanu/4f8154847de32d3eac413c51caa281c6) was so good, I had to make a sequel.*
 
 Wayland still doesn't work well with NVIDIA. I know you gasped in shock, but I had to tell you the truth.
 
